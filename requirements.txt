@@ -1,0 +1,5 @@
+typer[all]==0.12.3
+rich==13.7.1
+gitpython==3.1.43
+openai==1.30.0
+python-dotenv==1.0.1

@@ -1,0 +1,12 @@
+# Environment & Secret Files
+.env
+venv/
+
+# Python Compilation Cache
+__pycache__/git rm --cached .env
+*.pyc
+
+# Packaging & Builds
+dist/
+build/
+*.egg-info/git
