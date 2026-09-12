@@ -1,5 +1,3 @@
-Absolutely. The current README has duplicated content and broken Markdown/link formatting. Here is a **clean, properly structured, portfolio-ready README** you can directly replace your existing `README.md` with.
-
 # PulseCLI 🚀
 
 > **AI-powered developer CLI that automatically turns Git activity into professional daily standup reports.**
